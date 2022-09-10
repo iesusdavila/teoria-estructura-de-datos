@@ -1,0 +1,2 @@
+Diferencia entre Array y Linked List
+https://levelup.gitconnected.com/array-vs-linked-list-data-structure-c5c0ff405f16
